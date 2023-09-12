@@ -1,1 +1,1 @@
-return new Toroid(10, 20, 20, 16).toCSG()
+return new Toroid(10, 120, 120, 100).toCSG()
